@@ -47,4 +47,22 @@ Transfer learning methods were implemented to carry out sentiment analysis. Sent
 Transfer learning methods were implemented to carry out sentiment analysis. Sentiment Analysis of Tweets was carried out by integrating and using  the Huggingface Transformer Library. Further Slanted Triangular Learning Rates, The trainin arguments was defined ,epochs was set to 10, load the best model and it should return RMSE scores.The least scores gives the best prediction. The Data obtained from the previous process was then tokenised and passed through the model for Sentiment analysis. This yielded a model with an RMSE of 65% over the data set
 
 
+# HuggingFace
+A huggingface  was used for setting up website routing. It is used to integrate the back end machine learning models with the dashboard.
+We can use HuggingFace Transformers for performing easy text summarization. We'll structure things as follows. First of all, we'll be looking at how Machine Learning can be useful to summarizing text. Subsequently, we looked at how summarization can be performed with a pretrained Transformer. We'll look at Transformers, BERT and Roberta. Transformer models have proven to be exceptionally efficient over a wide range of ML tasks, including Natural Language Processing (NLP), Computer Vision, and Speech
+
+# Gradio app
+
+![1](https://user-images.githubusercontent.com/119458164/236497416-29d23043-768c-401a-9da2-5a8b368462fc.PNG)
+
+# Streamlit
+
+![1](https://user-images.githubusercontent.com/119458164/236504795-d299f4f3-2b29-4ca7-82ae-c0c60897ccb1.PNG)
+![2](https://user-images.githubusercontent.com/119458164/236504862-6d6013e9-b37e-4df0-a322-01a6e9e21f69.PNG)
+![4](https://user-images.githubusercontent.com/119458164/236504920-ac9c096d-0fc5-4121-a319-3d1d68400fba.PNG)
+![6](https://user-images.githubusercontent.com/119458164/236505114-d58059c2-fe99-4003-8963-1f72e4fc4955.PNG)
+
+
+
+
 
