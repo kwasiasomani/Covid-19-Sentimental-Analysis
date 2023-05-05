@@ -1,7 +1,7 @@
-FROM python:3.9
+FROM python:3.10
 
 # Create a virtualenv for dependencies. This isolates these packages from system-level packages.
-RUN virtualenv -p python3.9 /env
+RUN virtualenv -p python3.10 /env
 
 # Setting these environment variables are the same as running
 # source /env/bin/activate.
