@@ -36,6 +36,10 @@ python Streamlit_app.py
 
 # Notebooks
 
+# Data Creation and Data Cleaning
+Data set was downloaded from Zindi website. Upon inspection, it was found that safe_text did have missing values so further inspection was taken to check if it has plenty missing values and check the rows and columns affected. So the missing values was dropped for best the train and test data.
+
+
 # Roberta Model Training
 Transfer learning methods were implemented to carry out sentiment analysis. Sentiment Analysis of Tweets was carried out by integrating and using  the Huggingface Transformer Library. Further Slanted Triangular Learning Rates, The trainin arguments was defined ,epochs was set to 10, load the best model and it should return RMSE scores.The least scores gives the best prediction. The Data obtained from the previous process was then tokenised and passed through the model for Sentiment analysis. This yielded a model with an RMSE of 68% over the data set
 
@@ -44,5 +48,3 @@ Transfer learning methods were implemented to carry out sentiment analysis. Sent
 
 
 
-# Data Creation and Data Cleaning
-Data set was downloaded from Zindi website. Upon inspection, it was found that safe_text did have missing values so further inspection was taken to check if it has plenty missing values and check the rows and columns affected. So the missing values was dropped for best the train and test data.
