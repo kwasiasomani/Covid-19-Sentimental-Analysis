@@ -16,6 +16,10 @@ RUN pip install -r /app/requirements.txt
 # Add the application source code.
 ADD . /app
 
-# Run a WSGI server to serve the application. gunicorn must be declared as
+# The webserver on port 80
+Expose 80
+
+
+
 # a dependency in requirements.txt.
-CMD python Streamlit_app.py
+CMD ['python','Streamlit_app.py']
