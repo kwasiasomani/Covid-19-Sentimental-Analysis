@@ -19,3 +19,4 @@ gradio
 plotly
 matplotlib
 torch
+pandas
