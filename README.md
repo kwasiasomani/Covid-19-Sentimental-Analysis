@@ -1,6 +1,11 @@
 # Covid-19-Twitter-Sentimental-Analysis
 ![image](https://user-images.githubusercontent.com/119458164/236449588-ca2d0e13-82c2-49c8-b3ee-a66b9163697a.png)
 
+![Medium link](https://medium.com/@kwasiasomani85/sentiment-analysis-on-covid-19-tweets-3d45bf7bb34c)
+
+![Huggingface link](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
+
+
 Hello there! This is the Github repository for Covid19 - The Visualisation Dashboard of COVID-19 Twitter Sentiment Analysis. This project is based on analyzing the sentiment of tweets which help in understanding the pulse of the nation towards the pandemic. 
 Recently, the number of tweets on COVID-19 are increasing at an unprecedented rate by including positive, negative and neutral tweets. This diversified nature of tweets has attracted the researchers to perform sentiment analysis and analyze the varied emotions of a large public towards COVID-19. The traditional sentiment analysis techniques will only find out the polarity and classify it as either positive, negative or neutral tweets
 In this project the data for training was obtained from Zindi. Transfer learning approach was adopted in building the models in the project. Two deep learning models were used,namely:
