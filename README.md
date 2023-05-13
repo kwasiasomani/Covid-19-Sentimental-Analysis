@@ -1,3 +1,6 @@
+## Author
+- [Kwasi Asomani](https://github.com/kwasiasomani)
+
 # Covid-19-Twitter-Sentimental-Analysis
 ![image](https://user-images.githubusercontent.com/119458164/236449588-ca2d0e13-82c2-49c8-b3ee-a66b9163697a.png)
 
