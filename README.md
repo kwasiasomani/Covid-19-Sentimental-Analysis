@@ -1,9 +1,4 @@
 
-[![Medium Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://medium.com/@kwasiasomani85/sentiment-analysis-on-covid-19-tweets-3d45bf7bb34c)
-[![Hugging Face Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
-
- 
-
 # Covid-19-Twitter-Sentimental-Analysis
 ![image](https://user-images.githubusercontent.com/119458164/236449588-ca2d0e13-82c2-49c8-b3ee-a66b9163697a.png)
 
