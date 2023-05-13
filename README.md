@@ -1,5 +1,3 @@
-## Author
-- [Kwasi Asomani](https://github.com/kwasiasomani)
 
 [![Medium Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://medium.com/@kwasiasomani85/sentiment-analysis-on-covid-19-tweets-3d45bf7bb34c)
 [![Hugging Face Badge](https://img.shields.io/github/followers/kwasiasomani?style=social)](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
@@ -58,6 +56,7 @@ We can use HuggingFace Transformers for performing easy text summarization. We'l
 ![6](https://user-images.githubusercontent.com/119458164/236505114-d58059c2-fe99-4003-8963-1f72e4fc4955.PNG)
 
 
-
+## Author
+- [Kwasi Asomani](https://github.com/kwasiasomani)
 
 
