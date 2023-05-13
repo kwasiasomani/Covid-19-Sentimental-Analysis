@@ -16,27 +16,7 @@ For the Model Training and Validation Pytorch approach was used. The development
 3. [Development and Deployment of Streamlit App using HuggingFace](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
 4. [Development and Deployment of Gradio App using HuggingFace](https://huggingface.co/spaces/Kwasiasomani/Gradio-Sentimental-Analysis)
 
-# Dockerfile & Running Project Locally
 
-The github repo is provided with a dockerfile and requirements.txt file to recreate the app deployed in the project. The dockerfile creates a virtual environment with required python version and packages for web app deployment. The required Python version must be  3.10. All the dependencies required for the code in the repo can be installed using requirements.txt. Also the instructions for running the app locally are:
-
-1. Start with cloning the github repo with the following command:
-
-https://github.com/kwasiasomani/Covid-19-Sentimental-Analysis.git
-
-2. Follow the instructions and download required files given in Readme files of  Roberta_Model, R_CNN_weights under the APP/static folder in github repo.
-3. Now change your working directory to the APP file so that we can start running the main.py file.
-4. Now, we need to start by downloading the requirements for the project:
-
-pip install -q -r requirements.txt
-
-5. Then Run the app with the following command:
-
-python Streamlit_app.py
-
-6. Now the Streamlit_app.py file should be running and the website should be live and can be accessible to local host, Enjoy!
-
-# Notebooks
 
 # Data Creation and Data Cleaning
 Data set was downloaded from Zindi website. Upon inspection, it was found that safe_text did have missing values so further inspection was taken to check if it has plenty missing values and check the rows and columns affected. So the missing values was dropped for best the train and test data.
