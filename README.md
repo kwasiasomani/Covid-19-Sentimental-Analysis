@@ -1,9 +1,9 @@
 # Covid-19-Twitter-Sentimental-Analysis
 ![image](https://user-images.githubusercontent.com/119458164/236449588-ca2d0e13-82c2-49c8-b3ee-a66b9163697a.png)
 
-![Medium link](https://medium.com/@kwasiasomani85/sentiment-analysis-on-covid-19-tweets-3d45bf7bb34c)
+[Medium link](https://medium.com/@kwasiasomani85/sentiment-analysis-on-covid-19-tweets-3d45bf7bb34c)
 
-![Huggingface link](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
+[Huggingface link](https://huggingface.co/spaces/Kwasiasomani/Streamlit-Sentimental-Analysis)
 
 
 Hello there! This is the Github repository for Covid19 - The Visualisation Dashboard of COVID-19 Twitter Sentiment Analysis. This project is based on analyzing the sentiment of tweets which help in understanding the pulse of the nation towards the pandemic. 
